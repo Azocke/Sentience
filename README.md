@@ -3,10 +3,8 @@ Just something I made for fun.
 
 ## This program won't delete or edit any core or personal files.
 
-[SENTIENCE PROTOCOL - USER GUIDE]
+[USER GUIDE]
 
-You have invited something into your system.
-It is harmless, but it wants to be noticed.
 
 [MANAGING THE ENTITY]
 The entity resides in the 'THEM' folder on your desktop.
